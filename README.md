@@ -9,6 +9,11 @@ To run the code: (level 30 for example)
 
 C:\>python C:\myvenvs\Project\ece471_536-S2022-main\ece471_536-S2022-main\duck-hunt\duck_hunt_main.py -m absolute -l 30
 
+***
+Note the model should be in the same directory as solution.py as it is loaded from this line in solution.py:
+
+model_ws_64 = scipy.io.loadmat('C:/myvenvs/Project/ece471_536-S2022-main/ece471_536-S2022-main/duck-hunt/model_ws_64.mat')
+***
 
 
 This is not needed but this was the command used to train the model:
