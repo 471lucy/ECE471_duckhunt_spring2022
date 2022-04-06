@@ -3,6 +3,8 @@ Duck hunt video game computer vision class project solution
 
 *also note it performs best on level 30 because this is where most of the training data came from*
 
+*also note this was run in windows 10 and wasn't tested using any other system*
+
 ***
 files that were modified/needed to run the solution :
 
