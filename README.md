@@ -3,8 +3,11 @@ Duck hunt video game computer vision class project solution
 
 ***
 files that were modified/needed to run the solution :
+
 solution.py -> solution added
+
 duck_hunt_main.py -> added few lines to have coordinates be a list of up to 10 coordinates
+
 model_ws_64.mat -> model needed for the binary classification in solution.py
 ***
 
