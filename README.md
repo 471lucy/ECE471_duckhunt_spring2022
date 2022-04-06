@@ -1,6 +1,8 @@
 # ECE471_duckhunt_spring2022
 Duck hunt video game computer vision class project solution
 
+*also note it performs best on level 30 because this is where most of the training data came from*
+
 ***
 files that were modified/needed to run the solution :
 
