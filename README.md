@@ -36,3 +36,13 @@ This is not needed but this was the command used to train the model:
 [ws,fs,k] = grad_desc_mod('duckhunt_f_wdbc','duckhunt_g_wdbc',zeros(1765,1),250,T_64_train,0.075);
 
 solution.py and duck_hunt_main.py were only files modified that are needed to run the solution (and the MATLAB file with the model weights is needed too)
+
+###
+
+Expected results:
+
+See video file ECE471 - Duck Hunt Challenge 2022-04-05 10-10-54.mp4 for example of what the expected results running level 30 should be.
+
+The current solution is able to identify and shoot about 30% of the ducks in level 30.
+
+###
